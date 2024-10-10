@@ -1,4 +1,4 @@
-- 👋 G'day, I’m @JesseCr00
+- 👋 G'day, I’m Jesse
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently studying Software Engineering and Advanced Computer Science at Monash University
 - 📫 How to reach me: JesseCr00@gmail.com
